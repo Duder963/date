@@ -1,0 +1,3 @@
+/home/duder963/Projects/date/CMakeFiles/date.dir
+/home/duder963/Projects/date/CMakeFiles/edit_cache.dir
+/home/duder963/Projects/date/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+main:
+    take file as argument
+    verify file is a music file
+    display current info
+    allow edit of any info
